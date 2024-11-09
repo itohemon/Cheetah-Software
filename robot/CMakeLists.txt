@@ -10,7 +10,7 @@ include_directories("../third-party/vectornav/include/vn")
 include_directories("../third-party/lord_imu/Include")
 
 include_directories("../lcm-types/cpp")
-include_directories("/usr/local/include/lcm/")   # lcm includes
+include_directories("/usr/include/lcm/")   # lcm includes
 include_directories("../third-party/SOEM/osal")
 include_directories("../third-party/SOEM/osal/linux")
 include_directories("../third-party/SOEM/oshw")
